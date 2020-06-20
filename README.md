@@ -1,3 +1,3 @@
 # ACM BBSBEC WEBSITE
 
-[Visit our website](https://bbsbecacm.herokuapp.com/)
+[Visit our website](test.bbsbec.hosting.acm.org/)
