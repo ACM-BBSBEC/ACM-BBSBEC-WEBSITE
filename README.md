@@ -1,3 +1,3 @@
 # ACM BBSBEC WEBSITE
 
-[Visit our website](test.bbsbec.hosting.acm.org/)
+[Visit our website](http://test.bbsbec.hosting.acm.org/)
